@@ -1477,7 +1477,7 @@
 	</tr>
 	<tr>
 		<td>This isn't extreme.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 </table>
 <table>
