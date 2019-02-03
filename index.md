@@ -2497,7 +2497,7 @@
 	</tr>
 	<tr>
 		<td>You're not an animal.</td>
-		<td></td>
+		<td>good - upbeat</td>
 	</tr>
 </table>
 <table>
